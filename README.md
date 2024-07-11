@@ -69,5 +69,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 If you have any questions, suggestions, or feedback, feel free to contact me at [hemuyuan120@gmail.com](mailto:hemuyuan120@gmail.com).
 
 ---
-
-Thank you for visiting the Machine Learning Projects Collection! I hope you find these projects useful and educational.
