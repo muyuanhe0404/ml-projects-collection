@@ -62,7 +62,7 @@ Each project comes with its own set of instructions and usage guidelines. Please
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
