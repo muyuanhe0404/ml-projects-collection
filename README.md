@@ -40,7 +40,7 @@ To get started with any of the projects, you need to clone this repository and i
 2. **Navigate to the project directory:**
 
     ```bash
-    cd project-name
+    cd project_collection/project-name
     ```
 
 3. **Create a virtual environment and activate it:**
