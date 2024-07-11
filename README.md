@@ -8,7 +8,6 @@ Welcome to the Machine Learning Projects Collection repository! This repository 
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -33,27 +32,42 @@ To get started with any of the projects, you need to clone this repository and i
 
 1. **Clone the repository:**
 
-```bash
-git clone https://github.com/muyuanhe0404/ml-projects-collection.git
-cd ml-projects-collection
-cd project-name
-
+    ```bash
+    git clone https://github.com/muyuanhe0404/ml-projects-collection.git
+    cd ml-projects-collection
+    ```
 
 2. **Navigate to the project directory:**
 
-cd project-name
-
+    ```bash
+    cd project-name
+    ```
 
 3. **Create a virtual environment and activate it:**
 
-python3 -m venv venv
-source venv/bin/activate
-
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
 
 4. **Install the required dependencies:**
 
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
-Each project comes with its own set of instructions and usage guidelines. Please refer to the README.md file within each project directory for detailed information on how to run the project, including data preparation, training, and evaluation steps.
+Each project comes with its own set of instructions and usage guidelines. Please refer to the `README.md` file within each project directory for detailed information on how to run the project, including data preparation, training, and evaluation steps.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to contact me at [hemuyuan120@gmail.com](mailto:hemuyuan120@gmail.com).
+
+---
+
+Thank you for visiting the Machine Learning Projects Collection! I hope you find these projects useful and educational.
