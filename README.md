@@ -1,6 +1,6 @@
 # Machine Learning Projects Collection
 
-Welcome to the Machine Learning Projects Collection repository! This repository is a curated collection of various machine learning projects that I have been working on. The aim is to provide a comprehensive resource for anyone interested in learning and exploring different aspects of machine learning.
+Welcome to the Machine Learning Projects Collection repository! This repository is a curated collection of various machine learning projects that I have been working on from public. The aim is to provide a comprehensive resource for anyone interested in learning and exploring different aspects of machine learning.
 
 ## Table of Contents
 
