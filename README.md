@@ -21,7 +21,6 @@ Each project is contained in its own directory with the following structure:
 
 - `data`: Contains raw and processed data.
 - `notebooks`: Jupyter notebooks for exploration and analysis.
-- `src`: Source code for the project.
 - `models`: Saved models and related files.
 - `README.md`: Detailed description of the specific project.
 - `requirements.txt`: List of dependencies required for the project.
