@@ -51,8 +51,6 @@ Follow the steps below to run the analysis:
 
    Open the notebook in your browser and run the cells to see the analysis and predictions.
 
-3. **Scripts:** You can also run the analysis scripts located in the `src` directory.
-
 
 ## License
 
